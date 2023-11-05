@@ -1,0 +1,28 @@
+.navbar{
+    background-color: #222;
+}
+
+/* .container-fluid{
+    margin-bottom: -7px;
+} */
+
+.btn{
+    transition: 0.5s;
+
+}
+
+.nav-item a{
+    margin-left: 10px;
+    text-align: start;    
+}
+
+.nav-item a:hover{
+    text-decoration: underline  2px;
+    transform: scale(1.1);
+    transition: 0.3s ease-in-out;  
+}
+.dropdown-menu .dropdown-item:hover{
+    width: max-content;
+    color: white;
+    background-color: #222;
+}
